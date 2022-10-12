@@ -88,8 +88,9 @@ Photo above is included for reference to longitudinal coordinates
 
 # **Conclusion**
 
-Through the investigation done to compare the variables with the Project Capacity, we can overall determine that much of the higher energy producing Turbine projects are centered towards the Mid and Southwest as a whole. The rotor diameters correlate to the total amount of capacity being produced, however the specific capacities of the Turbines themselves may not correlate to higher project capacities. This may suggest that some projects might have more turbines within the project (A variable we did not investigate and is present in the data set). The investigation also opens up to the question of what state most of these higher producing projects are located in. While we can assume from the investigation that most tend  to lie within a particular region, we would need to go further at looking at the state or correlating latitude coordinate with the longitude. \
+Through the investigation done to compare the variables with the Project Capacity, we can overall determine that much of the higher energy producing Turbine projects are centered towards the Mid and Southwest as a whole. The rotor diameters correlate to the total amount of capacity being produced, however the specific capacities of the Turbines themselves may not correlate to higher project capacities. This may suggest that some projects might have more turbines within the project (A variable we did not investigate and is present in the data set). The investigation also opens up to the question of what state most of these higher producing projects are located in. While we can assume from the investigation that most tend  to lie within a particular region, we would need to go further at looking at the state or correlating latitude coordinate with the longitude. This is Data Science\
 
 For more information on the Dataset and the collected information of Utility Scale windmills in the United States, visit https://www.sciencebase.gov/catalog/item/57bdfd8fe4b03fd6b7df5ff9. \
 
 Dataset imported from https://think.cs.vt.edu/corgis/csv/wind_turbines/.
+
